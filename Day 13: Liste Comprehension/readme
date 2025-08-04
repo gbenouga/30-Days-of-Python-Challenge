@@ -1,0 +1,15 @@
+# Day 13: List Comprehension
+
+Bienvenue dans le jour 13 du défi **30 Days of Python** !
+
+## Objectif
+
+Découvrir et maîtriser les compréhensions de listes en Python pour écrire du code plus concis et efficace.
+
+## Contenu
+
+- Syntaxe de la liste compréhension
+- Utilisation avec conditions (`if`)
+- Compréhensions imbriquées
+- Applications pratiques
+
