@@ -19,5 +19,3 @@ Dans ce fichier, vous trouverez des exemples et exercices sur :
 
 - [Documentation officielle Python - re](https://docs.python.org/3/library/re.html)
 - [W3Schools - Python RegEx](https://www.w3schools.com/python/python_regex.asp)
-
-
