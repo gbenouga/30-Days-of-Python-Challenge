@@ -1,0 +1,111 @@
+[
+  {
+    "name": "China",
+    "population": 1377422166,
+    "languages": [
+      "Chinese"
+    ]
+  },
+  {
+    "name": "India",
+    "population": 1295210000,
+    "languages": [
+      "Hindi",
+      "English"
+    ]
+  },
+  {
+    "name": "United States of America",
+    "population": 323947000,
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "population": 258705000,
+    "languages": [
+      "Indonesian"
+    ]
+  },
+  {
+    "name": "Brazil",
+    "population": 206135893,
+    "languages": [
+      "Portuguese"
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "population": 194125062,
+    "languages": [
+      "English",
+      "Urdu"
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "population": 186988000,
+    "languages": [
+      "English"
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "population": 161006790,
+    "languages": [
+      "Bengali"
+    ]
+  },
+  {
+    "name": "Russian Federation",
+    "population": 146599183,
+    "languages": [
+      "Russian"
+    ]
+  },
+  {
+    "name": "Japan",
+    "population": 126960000,
+    "languages": [
+      "Japanese"
+    ]
+  },
+  {
+    "name": "France",
+    "population": 66710000,
+    "languages": [
+      "French"
+    ]
+  },
+  {
+    "name": "Germany",
+    "population": 82175700,
+    "languages": [
+      "German"
+    ]
+  },
+  {
+    "name": "Spain",
+    "population": 46438422,
+    "languages": [
+      "Spanish"
+    ]
+  },
+  {
+    "name": "Canada",
+    "population": 36290000,
+    "languages": [
+      "English",
+      "French"
+    ]
+  },
+  {
+    "name": "Morocco",
+    "population": 34377511,
+    "languages": [
+      "Arabic",
+      "French"
+    ]
+  }
+]

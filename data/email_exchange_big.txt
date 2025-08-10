@@ -1,0 +1,51 @@
+From: john.doe@company.com
+To: jane.smith@example.org, mike.wilson@test.net
+Cc: admin@company.com, support@helpdesk.co.uk
+Subject: Weekly Report
+
+Hello team,
+
+Please find the weekly report attached. For any questions, contact me at john.doe@company.com 
+or reach out to our support team at support@helpdesk.co.uk.
+
+You can also contact:
+- Sales: sales@company.com
+- Marketing: marketing@company.com  
+- HR: hr@company.com
+- Technical Support: tech.support@company.com
+
+Best regards,
+John Doe
+john.doe@company.com
+
+---
+From: jane.smith@example.org
+To: all-staff@company.com
+Subject: Meeting Tomorrow
+
+Hi everyone,
+
+Don't forget about tomorrow's meeting. Please confirm your attendance by sending an email to 
+meeting-organizer@company.com.
+
+For remote participants, join via: video.conf@company.com
+Technical issues? Contact: it-support@company.com
+
+Thanks,
+Jane Smith
+jane.smith@example.org
+
+---
+From: admin@company.com
+To: john.doe@company.com, jane.smith@example.org
+Subject: System Maintenance
+
+Dear users,
+
+System maintenance is scheduled for this weekend. 
+Contact emergency@company.com for urgent issues.
+
+Admin Team
+admin@company.com
+
+P.S: Invalid emails like not-an-email, @invalid.com, and user@ should be ignored.
