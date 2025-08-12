@@ -1,3 +1,4 @@
+### Exercice Day 21
 import math
 from collections import Counter
 
