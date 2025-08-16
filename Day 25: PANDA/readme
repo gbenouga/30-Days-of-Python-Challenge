@@ -1,0 +1,6 @@
+Lecture du fichier : Essaie de lire hacker_news.csv depuis différents emplacements
+Premières/dernières lignes : Utilise [df.head()](Day 25: PANDA/Day25.py) et [df.tail()](Day 25: PANDA/Day25.py)
+Colonne title : Extrait la colonne comme Series pandas
+Comptage : Utilise [df.shape](Day 25: PANDA/Day25.py) pour obtenir les dimensions
+Filtrage Python : Filtre avec [str.contains()](Day 25: PANDA/Day25.py)
+Filtrage JavaScript : Même méthode de filtrage
